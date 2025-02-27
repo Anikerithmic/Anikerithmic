@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 I’m currently working on DigiHealth centralized health application using J2EE <br>🌱 I’m currently learning ML, AI/GnAI<br>💬 Ask me about Mearn Application Development and CS core.<br>
-⚡ Fun fact - I'm less talkative but more collaborative.
 
 🌐 Social
 
